@@ -1,0 +1,1 @@
+{"version":3,"sources":["Google.module.css","Register.css"],"names":[],"mappings":"AAAA,gDACE,iBAAkB,CAClB,UACF,CCHA,UACE,gBAAiB,CACjB,iBACF","file":"13.4dd50294.chunk.css","sourcesContent":[".Google {\r\n  text-align: center;\r\n  margin: 5px;\r\n}",".Register {\r\n  padding-top: 25px;\r\n  text-align: center;\r\n}"]}
